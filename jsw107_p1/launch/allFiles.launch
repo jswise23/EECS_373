@@ -1,0 +1,5 @@
+<launch> 
+<node name= "sin_commander" pkg= "jsw107_p1" type= "my_sin_commander" /> 
+<node name= "simulator" pkg= "jsw107_p1" type= "my_minimal_simulator" /> 
+<node name= "controller" pkg= "jsw107_p1" type= "my_minimal_controller" /> 
+</launch> 

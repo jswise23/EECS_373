@@ -1,0 +1,6 @@
+float64 amplitude
+float64 frequency
+int32 numCycles
+---
+string message
+---

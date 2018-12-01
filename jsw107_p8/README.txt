@@ -1,0 +1,1 @@
+This folder does not contain compilation files. To run, clear ROS workspace and add cwru_ariac_2018 and learning_ros_external_pkgs_kinetic files.
